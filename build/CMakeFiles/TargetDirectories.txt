@@ -1,0 +1,3 @@
+/home/daniely/altfire/projects/Serious/GomokuGL/build/CMakeFiles/my_opengl_project.dir
+/home/daniely/altfire/projects/Serious/GomokuGL/build/CMakeFiles/edit_cache.dir
+/home/daniely/altfire/projects/Serious/GomokuGL/build/CMakeFiles/rebuild_cache.dir

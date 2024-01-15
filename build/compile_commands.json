@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/daniely/altfire/projects/Serious/GomokuGL/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/my_opengl_project.dir/src/main.cpp.o -c /home/daniely/altfire/projects/Serious/GomokuGL/src/main.cpp",
+  "file": "/home/daniely/altfire/projects/Serious/GomokuGL/src/main.cpp"
+}
+]
